@@ -4,6 +4,6 @@ this is a test for learning how to focus on Git
 #!/bin/bash
 
 echo "Hello, world!"
+now that try this again for practice
 
-XX
 
