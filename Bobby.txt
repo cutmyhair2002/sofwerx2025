@@ -1,0 +1,9 @@
+
+this is a test for learning how to focus on Git
+
+#!/bin/bash
+
+echo "Hello, world!"
+
+XX
+
